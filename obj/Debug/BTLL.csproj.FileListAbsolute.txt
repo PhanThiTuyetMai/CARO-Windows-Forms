@@ -1,0 +1,88 @@
+D:\LTGD\BTLL\BTLL\bin\Debug\BTLL.exe.config
+D:\LTGD\BTLL\BTLL\bin\Debug\BTLL.exe
+D:\LTGD\BTLL\BTLL\bin\Debug\BTLL.pdb
+D:\LTGD\BTLL\BTLL\obj\Debug\BTLL.csproj.AssemblyReference.cache
+D:\LTGD\BTLL\BTLL\obj\Debug\BTLL.Properties.Resources.resources
+D:\LTGD\BTLL\BTLL\obj\Debug\BTLL.csproj.GenerateResource.cache
+D:\LTGD\BTLL\BTLL\obj\Debug\BTLL.csproj.CoreCompileInputs.cache
+D:\LTGD\BTLL\BTLL\obj\Debug\BTLL.exe
+D:\LTGD\BTLL\BTLL\obj\Debug\BTLL.pdb
+D:\LTGD\BTLL\BTLL\obj\Debug\BTLL.Form1.resources
+C:\Users\DELL\Downloads\BTLL\bin\Debug\BTLL.exe.config
+C:\Users\DELL\Downloads\BTLL\bin\Debug\BTLL.exe
+C:\Users\DELL\Downloads\BTLL\bin\Debug\BTLL.pdb
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.Properties.Resources.resources
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.exe
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.pdb
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.frm2Player.resources
+C:\Users\DELL\Downloads\BTLL\obj\Debug\BTLL.frmPlay.resources
+C:\Users\DELL\Downloads\BTLL\bin\Debug\AnyConv.com__game-music-loop-2-144037.wav
+D:\BTLL\bin\Debug\AnyConv.com__game-music-loop-2-144037.wav
+D:\BTLL\bin\Debug\BTLL.exe.config
+D:\BTLL\bin\Debug\BTLL.exe
+D:\BTLL\bin\Debug\BTLL.pdb
+D:\BTLL\obj\Debug\BTLL.csproj.AssemblyReference.cache
+D:\BTLL\obj\Debug\BTLL.frm2Player.resources
+D:\BTLL\obj\Debug\BTLL.frmPlay.resources
+D:\BTLL\obj\Debug\BTLL.Properties.Resources.resources
+D:\BTLL\obj\Debug\BTLL.csproj.GenerateResource.cache
+D:\BTLL\obj\Debug\BTLL.csproj.CoreCompileInputs.cache
+D:\BTLL\obj\Debug\BTLL.exe
+D:\BTLL\obj\Debug\BTLL.pdb
+D:\BTLL\obj\Debug\BTLL.History.resources
+D:\BTLL\obj\Debug\BTLL.Help.resources
+D:\BTLL (2)\bin\Debug\AnyConv.com__game-music-loop-2-144037.wav
+D:\BTLL (2)\bin\Debug\BTLL.exe.config
+D:\BTLL (2)\bin\Debug\BTLL.exe
+D:\BTLL (2)\bin\Debug\BTLL.pdb
+D:\BTLL (2)\obj\Debug\BTLL.csproj.AssemblyReference.cache
+D:\BTLL (2)\obj\Debug\BTLL.frm2Player.resources
+D:\BTLL (2)\obj\Debug\BTLL.frmPlay.resources
+D:\BTLL (2)\obj\Debug\BTLL.Help.resources
+D:\BTLL (2)\obj\Debug\BTLL.Properties.Resources.resources
+D:\BTLL (2)\obj\Debug\BTLL.csproj.GenerateResource.cache
+D:\BTLL (2)\obj\Debug\BTLL.csproj.CoreCompileInputs.cache
+D:\BTLL (2)\obj\Debug\BTLL.exe
+D:\BTLL (2)\obj\Debug\BTLL.pdb
+D:\Study\22 - HK2\BTLL (2)\bin\Debug\AnyConv.com__game-music-loop-2-144037.wav
+D:\Study\22 - HK2\BTLL (2)\bin\Debug\BTLL.exe.config
+D:\Study\22 - HK2\BTLL (2)\bin\Debug\BTLL.exe
+D:\Study\22 - HK2\BTLL (2)\bin\Debug\BTLL.pdb
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.csproj.AssemblyReference.cache
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.frm2Player.resources
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.frmPlay.resources
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.Help.resources
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.Properties.Resources.resources
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.csproj.GenerateResource.cache
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.csproj.CoreCompileInputs.cache
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.exe
+D:\Study\22 - HK2\BTLL (2)\obj\Debug\BTLL.pdb
+D:\BTLL (3)\bin\Debug\AnyConv.com__game-music-loop-2-144037.wav
+D:\BTLL (3)\bin\Debug\BTLL.exe.config
+D:\BTLL (3)\bin\Debug\BTLL.exe
+D:\BTLL (3)\bin\Debug\BTLL.pdb
+D:\BTLL (3)\obj\Debug\BTLL.csproj.AssemblyReference.cache
+D:\BTLL (3)\obj\Debug\BTLL.frm2Player.resources
+D:\BTLL (3)\obj\Debug\BTLL.frmPlay.resources
+D:\BTLL (3)\obj\Debug\BTLL.Help.resources
+D:\BTLL (3)\obj\Debug\BTLL.Properties.Resources.resources
+D:\BTLL (3)\obj\Debug\BTLL.csproj.GenerateResource.cache
+D:\BTLL (3)\obj\Debug\BTLL.csproj.CoreCompileInputs.cache
+D:\BTLL (3)\obj\Debug\BTLL.exe
+D:\BTLL (3)\obj\Debug\BTLL.pdb
+D:\CARO\bin\Debug\AnyConv.com__game-music-loop-2-144037.wav
+D:\CARO\bin\Debug\BTLL.exe.config
+D:\CARO\bin\Debug\BTLL.exe
+D:\CARO\bin\Debug\BTLL.pdb
+D:\CARO\obj\Debug\BTLL.csproj.AssemblyReference.cache
+D:\CARO\obj\Debug\BTLL.frm2Player.resources
+D:\CARO\obj\Debug\BTLL.frmPlay.resources
+D:\CARO\obj\Debug\BTLL.Help.resources
+D:\CARO\obj\Debug\BTLL.Properties.Resources.resources
+D:\CARO\obj\Debug\BTLL.csproj.GenerateResource.cache
+D:\CARO\obj\Debug\BTLL.csproj.CoreCompileInputs.cache
+D:\CARO\obj\Debug\BTLL.exe
+D:\CARO\obj\Debug\BTLL.pdb
